@@ -2,7 +2,6 @@
 
 The SG5 fork of NsCDE
 
-***************************
 ***********STATUS**********
 * Last commit: 2025-11-22 *
 * Pull Requests: unknown. *
