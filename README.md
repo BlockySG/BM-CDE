@@ -2,9 +2,10 @@
 
 The SG5 fork of NsCDE
 
-[![Github commits](https://img.shields.io/github/last-commit/NsCDE/NsCDE)](https://github.com/NsCDE/NsCDE/commits/master)
-[![GitHub contributors](https://img.shields.io/github/contributors/NsCDE/NsCDE)](https://github.com/NsCDE/NsCDE/graphs/contributors)
-[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/NsCDE/NsCDE/pull/new)
+***************************
+***********STATUS**********
+* Last commit: 2025-11-22 *
+
 
 ![ScreenShot](NsCDE.png)
 
