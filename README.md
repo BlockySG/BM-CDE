@@ -3,11 +3,11 @@
 The SG5 fork of NsCDE
 
 ***************************
-* Status                  *
-*                         *
-* Last commit: 2025-11-22 *
-* Pull Requests: unknown. *
-* Contributors: 1.        *
+* #Status                  
+
+* Last commit: 2025-11-22
+* Pull Requests: unknown. 
+* Contributors: 1.        
 ***************************
 
 ![ScreenShot](NsCDE.png)
