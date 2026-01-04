@@ -10,3 +10,5 @@
 5. Fork libadwaita (again) to force those stubborn GTK 4 apps to use the correct appearance
 
 6. Add some form of dark mode support
+
+7. start developing and testing NsCDE 3.0
