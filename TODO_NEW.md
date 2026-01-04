@@ -11,4 +11,6 @@
 
 6. Add some form of dark mode support
 
-7. start developing and testing NsCDE 3.0
+7. Start developing and testing NsCDE 3.0
+
+8. Drop support for Xorg in favor of XLibre (NsCDE 3.2)
