@@ -1,11 +1,11 @@
-# **Not so Common Desktop Environment (NsCDE)**
+# BlockyMods Classic Desktop Environment
 
-The SG5 fork of NsCDE
+Formerly **Not so Common Desktop Environment (NsCDE)**
 
 ***************************
 ### Status                  
 
-* Last commit: 2025-11-22
+* Last commit: 2026-6-26
 * Pull Requests: unknown. 
 * Contributors: 1.        
 ***************************
